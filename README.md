@@ -1,6 +1,6 @@
 # Data Policy
 
-**Effective Date: [Insert Date]**
+**Effective Date: [2025/07/31]**
 
 ## 1. Data Collection
 
@@ -40,14 +40,14 @@ We retain your data only as long as necessary to:
 - Comply with legal obligations
 - Resolve disputes
 
-If you wish to delete your data, you may request it at any time by contacting us at [Insert Contact Email].
+If you wish to delete your data, you may request it at any time by contacting us at [nathan@eui.money].
 
 ## 5. User Control
 
 You can control your data by:
 
 - Managing your Messenger settings
-- Requesting data deletion or a copy of your data by contacting [Insert Contact Email]
+- Requesting data deletion or a copy of your data by contacting [nathan@eui.money]
 - Stopping communication by sending “STOP” or using Facebook’s block feature
 
 ## 6. Security
@@ -71,6 +71,5 @@ We may update this policy. We will notify you of significant changes by posting 
 
 If you have any questions about this policy or your data, please contact:
 
-**[Your Company Name]**  
-[Your Contact Email]  
-[Your Business Address (optional for GDPR transparency)]
+Eastern Union Interactive Corp.
+nathan@eui.money  
